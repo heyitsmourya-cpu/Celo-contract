@@ -1,5 +1,7 @@
 # 🏥 Medichain – Immutable Health Report Storage on Blockchain
 
+![Uploading Screenshot (1).png…]()
+
 ## 📘 Project Description
 
 **Medichain** is a blockchain-based decentralized application (dApp) that provides a **secure, transparent, and immutable way to store health reports**.  
@@ -107,3 +109,4 @@ contract Medichain {
         return owner;
     }
 }
+
