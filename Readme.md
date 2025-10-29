@@ -1,6 +1,7 @@
 # 🏥 Medichain – Immutable Health Report Storage on Blockchain
 
-![Uploading Screenshot (1).png…]()
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8e19820f-4712-47fe-bed2-5b8a77755e4b" />
+
 
 ## 📘 Project Description
 
@@ -109,4 +110,5 @@ contract Medichain {
         return owner;
     }
 }
+
 
